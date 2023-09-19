@@ -1,8 +1,12 @@
 # 💫 About Me:
 ¡Hola! Soy María Sol Fernández,  una apasionada programadora con formación en desarrollo full stack y certificación como Tech Certified Developer. Aunque aún no tengo experiencia laboral formal, mi compromiso con el aprendizaje es constante.
+
 Soy una persona proactiva y autodidacta, lo que me permite aprender nuevas habilidades rápidamente y enfrentar desafíos con entusiasmo. Estoy emocionada por la oportunidad de contribuir a proyectos colaborativos y de código abierto, y de compartir conocimientos con la comunidad.
+
 Mi objetivo es convertirme en una desarrolladora de software competente y seguir creciendo en este emocionante campo. Siempre estoy abierta a nuevas conexiones y oportunidades para colaborar en proyectos interesantes.
+
 Cuando no estoy codificando, me encuentro participando en cursos y practicando mis habilidades para seguir evolucionando como profesional. Si compartes mi pasión por la programación, ¡me encantaría conectarme contigo!
+
 ¡Gracias por visitar mi perfil y unirte a mí en este emocionante viaje de desarrollo!
 <br>
 
@@ -17,8 +21,7 @@ Cuando no estoy codificando, me encuentro participando en cursos y practicando m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sol&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sol&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sol&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sol&icon=0&color=0)](https://visitcount.itsvg.in)
